@@ -1,2 +1,2 @@
 # MCC-73
- Basic Programming pada MCC - 73 
+ Basic Programming (Tugas Mandiri)
